@@ -1,0 +1,5 @@
+
+.icon-basket { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-bath { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2cd;&nbsp;'); }
+.icon-grav { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2d6;&nbsp;'); }
+.icon-wpexplorer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2de;&nbsp;'); }
